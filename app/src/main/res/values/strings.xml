@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">myComposeApp</string>
+    <string name="hello">Salut les codeurs, aujourd\'hui nous allons à la rencontre de Compose !</string>
+    <string name="image_description">Le monde</string>
 </resources>
