@@ -2,4 +2,7 @@
     <string name="app_name">myComposeApp</string>
     <string name="hello">Salut les codeurs, aujourd\'hui nous allons à la rencontre de Compose !</string>
     <string name="image_description">Le monde</string>
+    <string name="surname">Jonathan</string>
+    <string name="name">Saintignon</string>
+    <string name="profile_description">Salut à tous, je m\'appelle Jonathan Saintignon et je suis développeur Android.</string>
 </resources>
